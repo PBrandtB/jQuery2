@@ -1,0 +1,9 @@
+header {
+	color: blue;
+	font-size: 50px;
+}
+
+.panel {
+	display: inline-block;
+	width: 33%;
+}
